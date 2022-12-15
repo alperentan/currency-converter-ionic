@@ -1,0 +1,7 @@
+{
+  "name": "Convert Currency",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
